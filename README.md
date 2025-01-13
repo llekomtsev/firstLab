@@ -92,5 +92,5 @@ AmsGrad модифицирует Adam, чтобы избежать пробле�
 ## **5. Использованные источники**
 1. SqueezeNet: https://arxiv.org/abs/1602.07360  
 2. AmsGrad Optimization: https://openreview.net/pdf?id=ryQu7f-RZ  
-3. Stanford Cars Dataset: http://ai.stanford.edu/~jkrause/cars/car_dataset.html  
+3. Cars Dataset: https://disk.yandex.ru/d/yjoM_PpZTqm0bA  
 4. PyTorch Documentation: https://pytorch.org/docs/stable
